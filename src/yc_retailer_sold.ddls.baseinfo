@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"YRETAIL_SOLD_ITM"
+],
+"ASSOCIATED":
+[
+"YRETAILERS",
+"YTHEME_DET"
+],
+"BASE":
+[]
+}
+}
